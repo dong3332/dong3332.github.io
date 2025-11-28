@@ -2,86 +2,81 @@
 
 ---
 
-### **1. [span_1](start_span)비만이란?[span_1](end_span)**
+### **1. [span_1](start_span)비만이란?**[span_1](end_span)
 
-#### **1.1. [span_2](start_span)비만의 정의[span_2](end_span)**
+#### **1.1. 비만의 정의**
 
-* **비만(肥滿, obesity)이란?**
+* **[span_2](start_span)비만(肥滿, obesity)이란?**[span_2](end_span)
     * [span_3](start_span)살이 쪄서 몸이 뚱뚱함 (표준국어대사전)[span_3](end_span)
     * [span_4](start_span)Obesity의 어원: ad(over) + edere(to eat)[span_4](end_span)
-    * [span_5](start_span)에너지 공급과 소비의 **불균형**으로 지방량이 증가한 상태[span_5](end_span)
+    * [span_5](start_span)에너지 공급과 소비의 불균형으로 지방량이 증가한 상태[span_5](end_span)
     * [span_6](start_span)"섭취한 에너지 중 소비하고 남은 것이 지방으로 전환되어 신체의 여러 부분에 축적되는 현상"[span_6](end_span)
 * [span_7](start_span)단순히 살이 많이 찐 것과 체중이 많이 나가는 것은 비만이 아니다[span_7](end_span).
-* [span_8](start_span)비만은 "신체에 지방이 **과잉 축적된 상태**로 체지방이 **남성은 25%, 여성은 30% 이상**일 때"를 말한다[span_8](end_span).
+* [span_8](start_span)비만은 "신체에 지방이 과잉 축적된 상태로 체지방이 남성은 25%, 여성은 30% 이상일 때"를 말한다[span_8](end_span).
 * [span_9](start_span)비만은 단순 무게 증가가 아닌 **지방조직의 질적 변화**이다[span_9](end_span).
 
-#### **[span_10](start_span)1.2 비만 진단[span_10](end_span)**
+#### **1.2 비만 진단**
 
-* **[span_11](start_span)과체중과 비만의 차이**[span_11](end_span)
-    * **[span_12](start_span)BMI가 25이상 30미만일 때, 과체중**[span_12](end_span)
-    * **[span_13](start_span)BMI가 30이상일 때, 비만**[span_13](end_span)
-* **BMI (Body Mass Index: 체질량지수)**
-    * [span_14](start_span)체중과 키를 기준으로 비만도를 평가하는 방법[span_14](end_span).
+* **[span_10](start_span)과체중과 비만의 차이**[span_10](end_span)
+    * **[span_11](start_span)BMI가 25이상 30미만일 때, 과체중**, 30이상일 때 **비만**이다[span_11](end_span).
+* **[span_12](start_span)BMI (Body Mass Index: 체질량지수)**[span_12](end_span)
+    * [span_13](start_span)체중과 키를 기준으로 비만도를 평가하는 방법[span_13](end_span).
 
-#### **[span_15](start_span)1.3 1인 가구와 비만[span_15](end_span)**
+#### **1.3 1인 가구와 비만**
 
-* [span_16](start_span)현대 사회에서 1인 가구의 증가와 함께 새로운 건강 문제가 대두됨[span_16](end_span).
-* [span_17](start_span)특히, '혼밥', '배달 음식' 문화의 확산으로 비만의 위험이 높아지고 있다[span_17](end_span).
-* [span_18](start_span)"이러한 현상은 초가공식품 섭취 증가로 이어졌다"[span_18](end_span).
-* [span_19](start_span)"혼자 사는 사람들이 비만이 될 확률이 높다는 연구 결과 발표"[span_19](end_span).
-* [span_20](start_span)1인 가구는 불규칙한 식습관과 운동 부족으로 비만 위험이 높다[span_20](end_span).
-* **[span_21](start_span)1인 가구의 식사 패턴 (국민건강영양조사 1~6기)**[span_21](end_span)
-    * [span_22](start_span)혼자 식사 비율: 1인 가구 **91.8%** (다인 가구 20.9%보다 압도적으로 높음)[span_22](end_span).
-    * [span_23](start_span)혼자서 식사를 대충하는 것: 35.8%[span_23](end_span).
-    * [span_24](start_span)인스턴트를 주로 먹는 것: 19.2%로 나타남[span_24](end_span).
-    * [span_25](start_span)고도비만율은 2002년 2.5%에서 2021년 4.2%로 남녀 모두 증가했다[span_25](end_span).
+* [span_14](start_span)현대 사회에서 **1인 가구의 증가**와 함께 새로운 건강 문제가 대두되었다[span_14](end_span).
+* [span_15](start_span)'혼밥', '배달 음식' 문화의 확산으로 비만의 위험이 높아지고 있으며, 이는 **초가공식품 섭취 증가**로 이어졌다[span_15](end_span).
+* [span_16](start_span)"혼자 사는 사람들이 비만이 될 확률이 높다는 연구 결과 발표"되었다[span_16](end_span).
+* [span_17](start_span)1인 가구는 불규칙한 식습관과 운동 부족으로 비만 위험이 높다[span_17](end_span).
+* **1인 가구의 식사 패턴 (국민건강영양조사)**
+    * [span_18](start_span)혼자 식사 비율은 **91.8%**로 다인 가구(20.9%)보다 압도적으로 높다[span_18](end_span).
+    * [span_19](start_span)혼자서 식사를 대충하는 것이 35.8%, 인스턴트를 주로 먹는 것이 19.2%로 나타났다[span_19](end_span).
+    * [span_20](start_span)고도비만율은 2002년 2.5%에서 2021년 4.2%로 남녀 모두 증가했다[span_20](end_span).
 
 | 항목 | 수치 | 비고 |
 | :--- | :--- | :--- |
-| 성인 비만율 | **38.5%** | [span_26](start_span)2022년 기준 한국 성인 비만율[span_26](end_span) |
-| 1인 가구 위험 | **2배** | [span_27](start_span)다인 가구 대비 비만 위험도[span_27](end_span) |
-| 20-30대 비만 | **57.2%** | [span_28](start_span)젊은 1인 가구의 비만 증가율[span_28](end_span) |
+| 성인 비만율 | **[span_21](start_span)38.5%**[span_21](end_span) | [span_22](start_span)2022년 기준 한국 성인 비만율[span_22](end_span) |
+| 1인 가구 위험 | **[span_23](start_span)2배**[span_23](end_span) | [span_24](start_span)다인 가구 대비 비만 위험도[span_24](end_span) |
+| 20-30대 비만 | **[span_25](start_span)57.2%**[span_25](end_span) | [span_26](start_span)젊은 1인 가구의 비만 증가율[span_26](end_span) |
 
-* [span_29](start_span)비만은 단순한 외모의 문제가 아닌 건강의 지표[span_29](end_span).
-* [span_30](start_span)특히 20-30대 1인 가구의 비만율이 가파르게 증가하고 있어 사회적 관심이 필요한 시점이다[span_30](end_span).
+* [span_27](start_span)비만은 단순한 외모의 문제가 아닌 **건강의 지표**이며[span_27](end_span)[span_28](start_span), 특히 20-30대 1인 가구의 비만율이 가파르게 증가하고 있어 사회적 관심이 필요하다[span_28](end_span).
 
 ---
 
-### **2. [span_31](start_span)[span_32](start_span)비만이 미치는 영향[span_31](end_span)[span_32](end_span)**
+### **2. 비만이 미치는 영향**
 
-* [span_33](start_span)"우리는 체중 수치로 자신을 평가한다"[span_33](end_span).
-* [span_34](start_span)'비만’은 단순히 몸무게가 아닌 **‘심리적 낙인’**과 연결[span_34](end_span).
-    * **[span_35](start_span)심리적 낙인**이란, 타인에 대한 부정적 평가가 그들의 행동, 능력, 성격 등에 대한 인식을 왜곡시키는 현상이다[span_35](end_span).
-* [span_36](start_span)한국 사회에서 비만은 단순한 개인의 문제를 넘어 사회경제적 문제로 인식된다[span_36](end_span).
-* [span_37](start_span)외모에 대한 높은 관심과 날씬함을 중시하는 사회적 분위기 속에서 비만은 신체적 건강문제뿐만 아니라 정신적, 사회적 어려움을 유발한다[span_37](end_span).
-* [span_38](start_span)비만으로 인해 발생하는 문제들[span_38](end_span) :
-    * **[span_39](start_span)신체적 건강**[span_39](end_span)
-    * **[span_40](start_span)정신적 건강**[span_40](end_span)
-    * **[span_41](start_span)경제적 부담**[span_41](end_span)
-    * **[span_42](start_span)사회적 차별**[span_42](end_span)
+* [span_29](start_span)'비만'은 단순히 몸무게가 아닌 **‘심리적 낙인’**과 연결된다[span_29](end_span).
+    * **[span_30](start_span)심리적 낙인**이란, 타인에 대한 부정적 평가가 그들의 행동, 능력, 성격 등에 대한 인식을 왜곡시키는 현상이다[span_30](end_span).
+* [span_31](start_span)한국 사회에서 비만은 단순한 개인의 문제를 넘어 **사회경제적 문제**로 인식된다[span_31](end_span).
+* [span_32](start_span)비만은 신체적 건강문제뿐만 아니라 정신적, 사회적 어려움을 유발한다[span_32](end_span).
+* 비만으로 인해 발생하는 문제들 :
+    * **[span_33](start_span)신체적 건강**[span_33](end_span)
+    * **[span_34](start_span)정신적 건강**[span_34](end_span)
+    * **[span_35](start_span)경제적 부담**[span_35](end_span)
+    * **[span_36](start_span)사회적 차별**[span_36](end_span)
 
-#### **[span_43](start_span)신체적 건강[span_43](end_span)**
+#### **신체적 건강**
 
-* [span_44](start_span)고혈압, 당뇨병 심혈관 질환의 주요 위험 요인이다[span_44](end_span).
-* [span_45](start_span)운동 부족과 잘못된 식습관이 주요 원인으로, 사회적으로 부정적 시각으로 비칠 수 있음[span_45](end_span).
+* [span_37](start_span)고혈압, 당뇨병, 심혈관 질환의 주요 위험 요인이다[span_37](end_span).
+* [span_38](start_span)운동 부족과 잘못된 식습관이 주요 원인으로, 사회적으로 부정적 시각으로 비칠 수 있다[span_38](end_span).
 
-#### **[span_46](start_span)정신적 건강[span_46](end_span)**
+#### **정신적 건강**
 
-* [span_47](start_span)우울증, 사회적 고립감, 자존감 저하와 연관된다[span_47](end_span).
-* [span_48](start_span)비만으로 인한 낮은 자존감은 타인 시선에 대한 불안감을 증가시킨다[span_48](end_span).
-* [span_49](start_span)비만 아동, 청소년의 경우, 왕따나 놀림으로 인한 우울감, 회피적 성격 발달을 초래할 수 있다[span_49](end_span).
+* [span_39](start_span)우울증, 사회적 고립감, 자존감 저하와 연관된다[span_39](end_span).
+* [span_40](start_span)비만으로 인한 낮은 자존감은 타인 시선에 대한 불안감을 증가시킨다[span_40](end_span).
+* [span_41](start_span)비만 아동, 청소년의 경우, 왕따나 놀림으로 인한 우울감, 회피적 성격 발달을 초래할 수 있다[span_41](end_span).
 
-#### **[span_50](start_span)경제적 부담[span_50](end_span)**
+#### **경제적 부담**
 
-* **[span_51](start_span)사회적 비용**: 연간 **11조 원 이상의 사회 경제적 비용**이 발생한다[span_51](end_span).
-* **[span_52](start_span)의료비 지출**: 고혈압, 당뇨병, 지방간 등 만성질환 관리 비용이 증가한다[span_52](end_span).
-* [span_53](start_span)비만으로 인한 노동 생산성 저하도 기업과 사회에 경제적 손실을 유발한다[span_53](end_span).
+* **[span_42](start_span)사회적 비용**: 연간 **11조 원 이상의 사회 경제적 비용**이 발생한다[span_42](end_span).
+* **[span_43](start_span)의료비 지출**: 고혈압, 당뇨병, 지방간 등 만성질환 관리 비용이 증가한다[span_43](end_span).
+* [span_44](start_span)비만으로 인한 노동 생산성 저하도 기업과 사회에 경제적 손실을 유발한다[span_44](end_span).
 
-#### **[span_54](start_span)사회적 차별[span_54](end_span)**
+#### **사회적 차별**
 
-* [span_55](start_span)외모 지상주의 사회에서의 차별과 편견을 경험한다[span_55](end_span).
-* [span_56](start_span)외모 중심 사회에서 비만 혐오(Fatphobia)가 존재한다[span_56](end_span).
-* [span_57](start_span)취업 면접, SNS 등에서 비만인의 외모 평가 사례가 인용될 수 있다[span_57](end_span).
+* [span_45](start_span)외모 지상주의 사회에서 차별과 편견을 경험한다[span_45](end_span).
+* [span_46](start_span)외모 중심 사회에서 **비만 혐오(Fatphobia)**가 존재한다[span_46](end_span).
+* [span_47](start_span)취업 면접, SNS 등에서 비만인의 외모 평가 사례가 인용될 수 있다[span_47](end_span).
 
 ---
 
@@ -89,50 +84,50 @@
 
 | 범주 | 요인 | 설명/예시 |
 | :--- | :--- | :--- |
-| **[span_58](start_span)심리적 요인**[span_58](end_span) | 스트레스, 욕구 불만 | [span_59](start_span)"스트레스를 받으면 평소보다 많은 인슐린이 분비되어 당이 모자라게 되면서 당을 보충하고자 달콤한 음식들을 계속해서 찾게 되는 것"[span_59](end_span). |
-| **[span_60](start_span)감정적 식사패턴**[span_60](end_span) | 정서적 허기를 음식으로 채우는 행동 | 1인 가구의 47.2%가 외로움, 스트레스로 인한 과식 경험. [span_61](start_span)혼자 식사할 때 친구/가족과 함께 할 때보다 평균 35% 이상 많은 음식 섭취[span_61](end_span). |
-| **[span_62](start_span)에너지대사 불균형**[span_62](end_span) | 섭취 에너지와 소비 에너지의 불균형 | [span_63](start_span)신체 활동량 감소가 가장 큰 원인[span_63](end_span). |
-| **[span_64](start_span)유전적 요인**[span_64](end_span) | 부모의 비만 여부 | [span_65](start_span)부모 모두 비만일 때 자녀 비만 위험 80%, 한 쪽만 비만일 때 50%, 모두 비만이 아닐 때 10%[span_65](end_span). |
-| **[span_66](start_span)환경적 요인**[span_66](end_span) | 산업 및 문명의 발달, 식생활 유형, 패스트푸드/가공식품, 불충분한 수면 | [span_67](start_span)"수면이 부족하게 되면 대사의 활동이 둔화되고 공복혈당이 올라가면서 식욕촉진 호르몬인 그렐린의 분비량이 증가"[span_67](end_span). |
-| **[span_68](start_span)주거공간 요인**[span_68](end_span) | 제한된 조리 환경, 식재료 보관의 어려움, 운동 공간 부족 | [span_69](start_span)대부분의 1인 가구는 평균적으로 작은 주거 공간에서 생활하며, 이는 식습관과 활동적인 생활 방식 유지에 제약적임[span_69](end_span). |
-| **[span_70](start_span)사회경제적 요인**[span_70](end_span) | 사회경제적 지위와 비만의 관계, 소득 수준과 비만의 관계 | |
+| **심리적 요인** | [span_48](start_span)스트레스, 욕구 불만[span_48](end_span) | [span_49](start_span)스트레스를 받으면 인슐린이 분비되어 당이 모자라게 되고, 당을 보충하고자 달콤한 음식을 계속 찾게 된다[span_49](end_span). |
+| **감정적 식사패턴** | [span_50](start_span)정서적 허기를 음식으로 채우는 행동[span_50](end_span) | [span_51](start_span)1인 가구의 47.2%가 외로움, 스트레스로 인한 과식 경험이 있으며, 특히 저녁 시간대 감정적 식사가 두드러진다[span_51](end_span). [span_52](start_span)혼자 식사할 때 친구/가족과 함께 할 때보다 평균 35% 이상 많은 음식을 섭취한다[span_52](end_span). |
+| **에너지대사 불균형** | [span_53](start_span)섭취 에너지와 소비 에너지의 불균형[span_53](end_span) | **[span_54](start_span)신체 활동량 감소**가 가장 큰 원인이다[span_54](end_span). |
+| **유전적 요인** | [span_55](start_span)부모의 비만 여부[span_55](end_span) | [span_56](start_span)부모 모두 비만일 때 자녀 비만 위험 80%, 한 쪽만 비만일 때 50%, 모두 비만이 아닐 때 10%이다[span_56](end_span). |
+| **환경적 요인** | [span_57](start_span)산업/문명 발달, 식생활 유형, 수면 부족[span_57](end_span) | [span_58](start_span)수면 부족 시 대사의 활동이 둔화되고 식욕촉진 호르몬인 **그렐린 분비량**이 증가한다[span_58](end_span). |
+| **주거공간 요인** | [span_59](start_span)제한된 조리 환경, 식재료 보관 어려움, 운동 공간 부족[span_59](end_span) | [span_60](start_span)대부분의 1인 가구는 작은 주거 공간에서 생활하며, 제약된 물리적 환경은 식습관과 활동적인 생활 방식 유지에 제약적이다[span_60](end_span). |
+| **사회경제적 요인** | [span_61](start_span)사회경제적 지위와 비만의 관계, 소득 수준과 비만의 관계[span_61](end_span) | - |
 
 ---
 
-### **4. [span_71](start_span)비만과 건강 (합병증)[span_71](end_span)**
+### **4. [span_62](start_span)비만과 건강 (합병증)**[span_62](end_span)
 
 | 질환 | 설명 |
 | :--- | :--- |
-| **고혈압** | [span_72](start_span)심부전, 관상동맥질환, 뇌졸증 등의 합병증으로 사망위험이 높음[span_72](end_span). |
-| **당뇨병** | [span_73](start_span)위험도는 과체중의 정도와 기간에 비례하며, 특히 복부비만에서 위험도 증가[span_73](end_span). |
-| **고지혈증** | [span_74](start_span)혈액 내 너무 많은 지방 성분이 존재하는 것을 의미[span_74](end_span). |
-| **지방간** | [span_75](start_span)정상 간의 경우 지방 비율이 5%인데, 이보다 많은 지방이 축적된 상태[span_75](end_span). |
-| **피부질환** | [span_76](start_span)비만은 아토피와 같은 피부질환을 악화시킴[span_76](end_span).
-| **담석증** | [span_77](start_span)담관이나 담낭에 결석(돌)이 생기는 질환[span_77](end_span). |
-| **관절염** | [span_78](start_span)과체중으로 인한 관절의 과부하 현상으로 관절에 염증이 생기는 것[span_78](end_span). |
-| **보행장애** | [span_79](start_span)걷지 못하거나 걷는 데 불편이 있는 상태[span_79](end_span). |
+| **고혈압** | [span_63](start_span)심부전, 관상동맥질환, 뇌졸증 등의 합병증으로 사망위험이 높다[span_63](end_span). |
+| **당뇨병** | [span_64](start_span)위험도는 과체중의 정도와 기간에 비례하며, 특히 복부비만에서 위험도가 증가한다[span_64](end_span). |
+| **고지혈증** | [span_65](start_span)혈액 내 너무 많은 지방 성분이 존재하는 것을 의미한다[span_65](end_span). |
+| **지방간** | [span_66](start_span)정상 간 지방 비율 5%보다 많은 지방이 축적된 상태이다[span_66](end_span). |
+| **피부질환** | [span_67](start_span)비만은 아토피와 같은 피부질환을 악화시킨다[span_67](end_span). |
+| **담석증** | [span_68](start_span)담관이나 담낭에 결석(돌)이 생기는 질환이다[span_68](end_span). |
+| **관절염** | [span_69](start_span)과체중으로 인한 관절의 과부하 현상으로 관절에 염증이 생기는 것이다[span_69](end_span). |
+| **보행장애** | [span_70](start_span)걷지 못하거나 걷는 데 불편이 있는 상태이다[span_70](end_span). |
 
 ---
 
 ### **5. 비만 관리 노하우**
 
-#### **[span_80](start_span)운동요법[span_80](end_span)**
+#### **[span_71](start_span)운동요법**[span_71](end_span)
 
-* **[span_81](start_span)원칙**: 개인의 신체조건에 맞는 운동, 장기적/규칙적 시행, 최대산소섭취량의 50-80% 강도[span_81](end_span).
-* **[span_82](start_span)체중 조절에 가장 효과적인 운동**: 유산소와 무산소 운동의 병행[span_82](end_span).
-    * **[span_83](start_span)유산소 운동**: 걷기, 달리기, 자전거타기, 수영 등[span_83](end_span).
-    * **[span_84](start_span)무산소 운동**: 웨이트 트레이닝[span_84](end_span).
-* **[span_85](start_span)적절한 운동 방법**: 1주일 3-5회 (1회당 30-50분), 식사 전후 1시간, 준비 및 정리운동[span_85](end_span).
+* **원칙**: 개인의 신체조건에 맞는 운동, 장기적/규칙적 시행, 최대산소섭취량의 50-80% 강도.
+* **체중 조절에 가장 효과적인 운동**: **유산소와 무산소 운동의 병행**.
+    * **유산소 운동**: 걷기, 달리기, 자전거타기, 수영 등.
+    * **무산소 운동**: 웨이트 트레이닝.
+* **적절한 운동 방법**: 1주일 3-5회 (1회당 30-50분), 식사 전후 1시간, 준비 및 정리운동.
 
-#### **[span_86](start_span)행동수정요법 (BMT: Behavior Modification Therapy)[span_86](end_span)**
+#### **[span_72](start_span)행동수정요법 (BMT: Behavior Modification Therapy)**[span_72](end_span)
 
-* [span_87](start_span)학습이론을 바탕으로 한 심리치료 기법이며, 부정적 행동의 변화와 긍정적 행동의 강화를 위한 접근법이다[span_87](end_span).
+* 학습이론을 바탕으로 한 심리치료 기법이며, 부정적 행동의 변화와 긍정적 행동의 강화를 위한 접근법이다.
 
 | 방법 | 설명 및 예시 |
 | :--- | :--- |
-| **자기 모니터링 (Self-monitoring)** | [span_88](start_span)예) 음식일지 작성, 사진찍기 등[span_88](end_span). |
-| **자기 통제 (Stimulus control)** | [span_89](start_span)예) 집에서 간식 제거, 계획표에 따른 식사[span_89](end_span). |
-| **부정적 행동 소거 (Extinction of Negative Behaviors)** | [span_90](start_span)예) 야식 습관 제거를 위한 행동 (배고플 때 물 마시기 등)[span_90](end_span). |
-| **긍정적 강화 (Positive Reinforcement)** | [span_91](start_span)예) 운동을 계획대로 하거나 식단을 준수했을 때, 스스로에게 보상을 한다 (쇼핑, 여가 등)[span_91](end_span). |
+| **자기 모니터링 (Self-monitoring)** | 예) 음식일지 작성, 사진찍기 등. |
+| **자기 통제 (Stimulus control)** | 예) 집에서 간식 제거, 계획표에 따른 식사. |
+| **부정적 행동 소거 (Extinction of Negative Behaviors)** | 예) 야식 습관 제거를 위한 행동 (배고플 때 물 마시기 등). |
+| **긍정적 강화 (Positive Reinforcement)** | 예) 운동을 계획대로 하거나 식단을 준수했을 때, 스스로에게 보상을 한다 (쇼핑, 여가 등). |
 
-* **[span_92](start_span)주의**: 소셜 미디어에서 유행하는 다이어트 방법들은 검증되지 않은 경우가 많다[span_92](end_span). [span_93](start_span)조회수가 많다고 해서 과학적 신뢰도가 높은 것은 아니다[span_93](end_span).
+* **[span_73](start_span)주의**: 소셜 미디어에서 유행하는 다이어트 방법들은 검증되지 않은 경우가 많으며, 조회수가 많다고 해서 과학적 신뢰도가 높은 것은 아니다[span_73](end_span).
